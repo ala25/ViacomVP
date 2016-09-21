@@ -1,0 +1,1695 @@
+{
+  response: {
+    episodes: [
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:78a7fb7e-ebd2-42e6-af5a-437f4dd905c8",
+        id: "78a7fb7e-ebd2-42e6-af5a-437f4dd905c8",
+        title: "September 8, 2016 - Howard Schultz",
+        episodeNumber: "21150",
+        description: "Matt Lauer grills Hillary Clinton on her emails, Desi Lydic fact-checks Donald Trump on international relations, and Starbucks CEO Howard Schultz discusses "Upstanders."",
+        shortDescription: "Matt Lauer grills Hillary Clinton on her emails, Desi Lydic fact-checks Donald Trump on international relations, and Starbucks CEO Howard Schultz discusses "Upstanders."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-09-08T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21150/ds_21_150.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "a4ed1e4c-3e81-4323-9c8e-cc87f5cf0d63",
+            name: "Howard Schultz",
+            role: "Guest"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/78a7fb7e-ebd2-42e6-af5a-437f4dd905c8?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-08T23:00:00Z",
+            endDate: "2016-09-16T06:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/78a7fb7e-ebd2-42e6-af5a-437f4dd905c8?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-08T23:00:00Z",
+            endDate: "2016-09-16T06:00:00Z"
+          },
+          {
+            platform: "roku",
+            contentLink: "entity=episode&mgid=mgid:arc:episode:comedycentral.com:78a7fb7e-ebd2-42e6-af5a-437f4dd905c8&autoplay=true&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-08T23:00:00Z",
+            endDate: "2016-09-16T06:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:2f55db2b-8ba3-4339-a666-0d1903313ec0",
+        id: "2f55db2b-8ba3-4339-a666-0d1903313ec0",
+        title: "July 5, 2016 - Jim Gaffigan",
+        episodeNumber: "21129",
+        description: "The FBI announces that Hillary Clinton won't be indicted over an email scandal, Donald Trump tweets an anti-Semitic image, and Jim Gaffigan discusses "TheJimGaffiganShow."",
+        shortDescription: "The FBI announces that Hillary Clinton won't be indicted over an email scandal, Donald Trump tweets an anti-Semitic image, and Jim Gaffigan discusses "TheJimGaffiganShow."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1289,
+        genre: "comedy",
+        originalAirDate: "2016-07-05T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21129/ds_21_129.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "42f10c89-416b-46bf-95bb-f4f1d0e8a3cb",
+            name: "Jim Gaffigan",
+            role: "Guest"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/2f55db2b-8ba3-4339-a666-0d1903313ec0?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-06T03:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/2f55db2b-8ba3-4339-a666-0d1903313ec0?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-06T03:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:dbfc1339-d016-489b-8945-6636b21f1deb",
+        id: "dbfc1339-d016-489b-8945-6636b21f1deb",
+        title: "July 6, 2016 - Terry McMillan",
+        episodeNumber: "21130",
+        description: "Hillary Clinton's past remarks about her email investigation prove to be untrue, Donald Trump praises Saddam Hussein, and Terry McMillan discusses "IAlmostForgotAboutYou."",
+        shortDescription: "Hillary Clinton's past remarks about her email investigation prove to be untrue, Donald Trump praises Saddam Hussein, and Terry McMillan discusses "IAlmostForgotAboutYou."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-07-06T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21130/ds_21_130.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "4d9dcec3-9a3d-422f-abe2-c70541dfe2a9",
+            name: "Terry McMillan",
+            role: "Guest"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/dbfc1339-d016-489b-8945-6636b21f1deb?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-07T03:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/dbfc1339-d016-489b-8945-6636b21f1deb?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-07T03:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:996233d6-eb91-4f1d-8263-d931e095362c",
+        id: "996233d6-eb91-4f1d-8263-d931e095362c",
+        title: "September 7, 2016 - Ava DuVernay",
+        episodeNumber: "21149",
+        description: "Trevor breaks down Congress's inaction on Zika funding, Hasan Minhaj details the latest features on the iPhone 7, and Ava DuVernay discusses "QueenSugar."",
+        shortDescription: "Trevor breaks down Congress's inaction on Zika funding, Hasan Minhaj details the latest features on the iPhone 7, and Ava DuVernay discusses "QueenSugar."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1288,
+        genre: "comedy",
+        originalAirDate: "2016-09-07T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21149/ds_21_149.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "d5725c9d-8c3b-4c27-9954-090a8344e5b1",
+            name: "Ava DuVernay",
+            role: "Guest"
+          },
+          {
+            id: "2ab0be81-b64d-4d46-b97e-c1883949d2d5",
+            name: "Hasan Minhaj",
+            role: "Cast Member"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/996233d6-eb91-4f1d-8263-d931e095362c?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-07T23:00:00Z",
+            endDate: "2016-09-15T06:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/996233d6-eb91-4f1d-8263-d931e095362c?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-07T23:00:00Z",
+            endDate: "2016-09-15T06:00:00Z"
+          },
+          {
+            platform: "roku",
+            contentLink: "entity=episode&mgid=mgid:arc:episode:comedycentral.com:996233d6-eb91-4f1d-8263-d931e095362c&autoplay=true&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-07T23:00:00Z",
+            endDate: "2016-09-15T06:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:967d0141-5f3d-483d-8a4e-747ba48c1a13",
+        id: "967d0141-5f3d-483d-8a4e-747ba48c1a13",
+        title: "September 6, 2016 - Jeff Ross",
+        episodeNumber: "21148",
+        description: "China snubs President Obama at the G20 Summit, Roy Wood Jr. weighs in on Donald Trump's attempt to woo black voters, and Jeff Ross discusses his special Jeff Ross Roasts Cops.",
+        shortDescription: "China snubs President Obama at the G20 Summit, Roy Wood Jr. weighs in on Donald Trump's attempt to woo black voters, and Jeff Ross discusses his special Jeff Ross Roasts Cops.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-09-06T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21148/ds_21_148.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "184c7d08-8431-4897-af44-de7be720cd88",
+            name: "Jeff Ross",
+            role: "Guest"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/967d0141-5f3d-483d-8a4e-747ba48c1a13?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-06T23:00:00Z",
+            endDate: "2016-09-14T06:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/967d0141-5f3d-483d-8a4e-747ba48c1a13?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-06T23:00:00Z",
+            endDate: "2016-09-14T06:00:00Z"
+          },
+          {
+            platform: "roku",
+            contentLink: "entity=episode&mgid=mgid:arc:episode:comedycentral.com:967d0141-5f3d-483d-8a4e-747ba48c1a13&autoplay=true&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-09-06T23:00:00Z",
+            endDate: "2016-09-14T06:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:9a4f0edd-fc9c-4739-9326-5ce31f431ef0",
+        id: "9a4f0edd-fc9c-4739-9326-5ce31f431ef0",
+        title: "August 18, 2016 - Emily King",
+        episodeNumber: "21147",
+        description: "The Best F#@king News Team examines third-party candidates, Jordan Klepper puts Donald Trump fans to the test, and Emily King performs songs from her album "TheSwitch."",
+        shortDescription: "The Best F#@king News Team examines third-party candidates, Jordan Klepper puts Donald Trump fans to the test, and Emily King performs songs from her album "TheSwitch."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1289,
+        genre: "comedy",
+        originalAirDate: "2016-08-18T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21147/ds_21_147.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "7825e50d-a3ea-4ffc-b2e3-d1b22a7cb3db",
+            name: "Emily King",
+            role: "Guest"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "2ab0be81-b64d-4d46-b97e-c1883949d2d5",
+            name: "Hasan Minhaj",
+            role: "Cast Member"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          },
+          {
+            id: "cfaed235-edfd-4501-9cdf-0410cc40b682",
+            name: "Adam Lowitt",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/9a4f0edd-fc9c-4739-9326-5ce31f431ef0?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-08-18T23:00:00Z",
+            endDate: "2016-09-13T06:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/9a4f0edd-fc9c-4739-9326-5ce31f431ef0?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-08-18T23:00:00Z",
+            endDate: "2016-09-13T06:00:00Z"
+          },
+          {
+            platform: "roku",
+            contentLink: "entity=episode&mgid=mgid:arc:episode:comedycentral.com:9a4f0edd-fc9c-4739-9326-5ce31f431ef0&autoplay=true&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "false",
+            startDate: "2016-08-18T23:00:00Z",
+            endDate: "2016-09-13T06:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:44e32a2d-7c3f-40ff-9b27-20764518d933",
+        id: "44e32a2d-7c3f-40ff-9b27-20764518d933",
+        title: "August 17, 2016 - LeBron James",
+        episodeNumber: "21146",
+        description: "Donald Trump calls for more cops in black communities, Trevor examines police profiling, and LeBron James discusses the LeBron James Family Foundation and "ClevelandHustles."",
+        shortDescription: "Donald Trump calls for more cops in black communities, Trevor examines police profiling, and LeBron James discusses the LeBron James Family Foundation and "ClevelandHustles."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-08-17T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21146/ds_21_146.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "762a26f9-5814-4074-a424-11a700372477",
+            name: "LeBron James",
+            role: "Guest"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/44e32a2d-7c3f-40ff-9b27-20764518d933?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-17T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/44e32a2d-7c3f-40ff-9b27-20764518d933?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-17T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:0a9badc8-791c-4730-8b6f-aa01c4550f4f",
+        id: "0a9badc8-791c-4730-8b6f-aa01c4550f4f",
+        title: "August 16, 2016 - Yaa Gyasi & Sharlto Copley",
+        episodeNumber: "21145",
+        description: "Desi Lydic fact-checks Donald Trump's counterterrorism speech, Yaa Gyasi discusses her book "Homegoing,
+        " and Sharlto Copley talks about his movie "TheHollars."",
+        shortDescription: "Desi Lydic fact-checks Donald Trump's counterterrorism speech, Yaa Gyasi discusses her book "Homegoing,
+        " and Sharlto Copley talks about his movie "TheHollars."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-08-16T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21145/ds_21_145.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "d81c3ff2-c1a0-475c-8f9f-78736bded314",
+            name: "Yaa Gyasi",
+            role: "Guest"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "cfaed235-edfd-4501-9cdf-0410cc40b682",
+            name: "Adam Lowitt",
+            role: "Cast Member"
+          },
+          {
+            id: "2ab0be81-b64d-4d46-b97e-c1883949d2d5",
+            name: "Hasan Minhaj",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/0a9badc8-791c-4730-8b6f-aa01c4550f4f?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-16T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/0a9badc8-791c-4730-8b6f-aa01c4550f4f?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-16T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:8981861f-7690-48d3-ba17-a5531c530bf1",
+        id: "8981861f-7690-48d3-ba17-a5531c530bf1",
+        title: "August 15, 2016 - Daniel Radcliffe",
+        episodeNumber: "21144",
+        description: "Donald Trump's surrogates defend his claims that President Obama founded ISIS, Ronny Chieng examines the Trump Organization, and Daniel Radcliffe discusses "Imperium."",
+        shortDescription: "Donald Trump's surrogates defend his claims that President Obama founded ISIS, Ronny Chieng examines the Trump Organization, and Daniel Radcliffe discusses "Imperium."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-08-15T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21144/ds_21_144.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "b1682acc-4c50-4731-bccf-f54c8465456b",
+            name: "Daniel Radcliffe",
+            role: "Guest"
+          },
+          {
+            id: "182f3d8d-2906-4a08-b34d-ac01d6707e23",
+            name: "Ronny Chieng",
+            role: "Cast Member"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/8981861f-7690-48d3-ba17-a5531c530bf1?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-15T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/8981861f-7690-48d3-ba17-a5531c530bf1?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-15T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:1798fc03-8407-4438-bf83-4a6183931353",
+        id: "1798fc03-8407-4438-bf83-4a6183931353",
+        title: "August 11, 2016 - Mike Birbiglia",
+        episodeNumber: "21143",
+        description: "Donald Trump claims Barack Obama founded ISIS, Trevor suggests ways to prevent police from shooting unarmed citizens, and Mike Birbiglia discusses "Don't Think Twice."", shortDescription: "Donald Trump claims Barack Obama founded ISIS, Trevor suggests ways to prevent police from shooting unarmed citizens, and Mike Birbiglia discusses "Don'tThinkTwice."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1291,
+        genre: "comedy",
+        originalAirDate: "2016-08-11T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21143/ds_21_143.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "3392d58a-01e3-4d6e-bda3-366cf08d5672",
+            name: "Mike Birbiglia",
+            role: "Guest"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "182f3d8d-2906-4a08-b34d-ac01d6707e23",
+            name: "Ronny Chieng",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/1798fc03-8407-4438-bf83-4a6183931353?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-11T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/1798fc03-8407-4438-bf83-4a6183931353?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-11T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:e212dfcd-5138-4ad3-af7e-1fd9816126c5",
+        id: "e212dfcd-5138-4ad3-af7e-1fd9816126c5",
+        title: "August 10, 2016 - Mychal Denzel Smith",
+        episodeNumber: "21142",
+        description: "Donald Trump calls on Second Amendment supporters to thwart Hillary Clinton, and Mychal Denzel Smith discusses "InvisibleMan,
+        GottheWholeWorldWatching."",
+        shortDescription: "Donald Trump calls on Second Amendment supporters to thwart Hillary Clinton, and Mychal Denzel Smith discusses "InvisibleMan,
+        GottheWholeWorldWatching."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-08-10T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21142/ds_21_142.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "fc6907ad-70a6-4756-82ea-aaff58867e1d",
+            name: "Mychal Denzel Smith",
+            role: "Guest"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/e212dfcd-5138-4ad3-af7e-1fd9816126c5?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-10T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/e212dfcd-5138-4ad3-af7e-1fd9816126c5?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-10T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:f9ad8ca8-a87d-46f1-adc5-9818c2b2ccf4",
+        id: "f9ad8ca8-a87d-46f1-adc5-9818c2b2ccf4",
+        title: "August 9, 2016 - Riki Lindhome and Natasha Leggero",
+        episodeNumber: "21141",
+        description: "Congress battles over Zika funding amid U.S. outbreaks, Desi Lydic fact-checks Donald Trump's economic speech, and Riki Lindhome and Natasha Leggero discuss Another Period.",
+        shortDescription: "Congress battles over Zika funding amid U.S. outbreaks, Desi Lydic fact-checks Donald Trump's economic speech, and Riki Lindhome and Natasha Leggero discuss Another Period.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1289,
+        genre: "comedy",
+        originalAirDate: "2016-08-09T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21141/ds_21_141.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "67638fbf-3d6c-45b0-86ea-a3177f00a224",
+            name: "Riki Lindhome",
+            role: "Guest"
+          },
+          {
+            id: "4990f66a-ffd3-4517-a51d-b260f0af517b",
+            name: "Natasha Leggero",
+            role: "Guest"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/f9ad8ca8-a87d-46f1-adc5-9818c2b2ccf4?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-09T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/f9ad8ca8-a87d-46f1-adc5-9818c2b2ccf4?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-09T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:fd0349c4-8413-47d7-a309-aca8ddab41e4",
+        id: "fd0349c4-8413-47d7-a309-aca8ddab41e4",
+        title: "August 8, 2016 - John Lewis",
+        episodeNumber: "21140",
+        description: "Donald Trump accuses Democrats of rigging the election, and Representative John Lewis talks about participating in the civil rights movement in his book "March: BookThree."",
+        shortDescription: "Donald Trump accuses Democrats of rigging the election, and Representative John Lewis talks about participating in the civil rights movement in his book "March: BookThree."",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-08-08T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21140/ds_21_140.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "b9b43652-1b19-41d4-a193-db91396429ad",
+            name: "John Lewis",
+            role: "Guest"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/fd0349c4-8413-47d7-a309-aca8ddab41e4?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-08T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/fd0349c4-8413-47d7-a309-aca8ddab41e4?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-08-08T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:c8b42d9a-aefa-4122-bd22-707940ba6bb4",
+        id: "c8b42d9a-aefa-4122-bd22-707940ba6bb4",
+        title: "July 29, 2016 - Cory Booker",
+        episodeNumber: "21139",
+        description: "On The Daily Show's final night at the DNC in Philadelphia, The Best F#@king News Team reviews the week's speeches, and Cory Booker discusses Hillary Clinton's campaign.",
+        shortDescription: "On The Daily Show's final night at the DNC in Philadelphia, The Best F#@king News Team reviews the week's speeches, and Cory Booker discusses Hillary Clinton's campaign.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1290,
+        genre: "comedy",
+        originalAirDate: "2016-07-29T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21139/ds_21_139.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "9cf8ef9f-c71d-43b6-b1e7-c2c8364e2136",
+            name: "Sen. Cory Booker",
+            role: "Guest"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "2ab0be81-b64d-4d46-b97e-c1883949d2d5",
+            name: "Hasan Minhaj",
+            role: "Cast Member"
+          },
+          {
+            id: "cfaed235-edfd-4501-9cdf-0410cc40b682",
+            name: "Adam Lowitt",
+            role: "Cast Member"
+          },
+          {
+            id: "182f3d8d-2906-4a08-b34d-ac01d6707e23",
+            name: "Ronny Chieng",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/c8b42d9a-aefa-4122-bd22-707940ba6bb4?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-29T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/c8b42d9a-aefa-4122-bd22-707940ba6bb4?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-29T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:7c76073e-6bd1-4cc0-998d-bb6b1ff7e427",
+        id: "7c76073e-6bd1-4cc0-998d-bb6b1ff7e427",
+        title: "July 28, 2016 - Mark Leibovich",
+        episodeNumber: "21138",
+        description: "As the DNC wraps up in in Philadelphia, Hillary Clinton accepts the Democratic nomination for president, and Mark Leibovich discusses the high-stakes election.",
+        shortDescription: "As the DNC wraps up in in Philadelphia, Hillary Clinton accepts the Democratic nomination for president, and Mark Leibovich discusses the high-stakes election.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1550,
+        genre: "comedy",
+        originalAirDate: "2016-07-28T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21138/ds_21_138.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/7c76073e-6bd1-4cc0-998d-bb6b1ff7e427?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-28T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/7c76073e-6bd1-4cc0-998d-bb6b1ff7e427?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-28T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:37cd5856-83b0-426b-9982-c58bdf4fc0fb",
+        id: "37cd5856-83b0-426b-9982-c58bdf4fc0fb",
+        title: "July 27, 2016 - Kirsten Gillibrand",
+        episodeNumber: "21137",
+        description: "From the DNC in Philadelphia, Desi Lydic unpacks Hillary Clinton's nomination, Donald Trump asks Russia to hack the U.S., and Senator Kirsten Gillibrand discusses paid leave.",
+        shortDescription: "From the DNC in Philadelphia, Desi Lydic unpacks Hillary Clinton's nomination, Donald Trump asks Russia to hack the U.S., and Senator Kirsten Gillibrand discusses paid leave.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1531,
+        genre: "comedy",
+        originalAirDate: "2016-07-27T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21137/ds_21_137.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "dbb7187b-f224-49fb-b677-92b79a95c044",
+            name: "Desi Lydic",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/37cd5856-83b0-426b-9982-c58bdf4fc0fb?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-27T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/37cd5856-83b0-426b-9982-c58bdf4fc0fb?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-27T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:288a6883-10c2-4b5b-a619-81b57bca36e9",
+        id: "288a6883-10c2-4b5b-a619-81b57bca36e9",
+        title: "July 26, 2016 - John Podesta",
+        episodeNumber: "21136",
+        description: "To kick off The Daily Show's DNC coverage, The Best F#@king News Team examines a DNC email leak, and John Podesta discusses Hillary Clinton's presidential nomination.",
+        shortDescription: "To kick off The Daily Show's DNC coverage, The Best F#@king News Team examines a DNC email leak, and John Podesta discusses Hillary Clinton's presidential nomination.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1292,
+        genre: "comedy",
+        originalAirDate: "2016-07-26T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21136/ds_21_136.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          },
+          {
+            id: "6efa4a41-8700-45de-8f39-530cfcf0cb94",
+            name: "Jordan Klepper",
+            role: "Cast Member"
+          },
+          {
+            id: "2ab0be81-b64d-4d46-b97e-c1883949d2d5",
+            name: "Hasan Minhaj",
+            role: "Cast Member"
+          },
+          {
+            id: "182f3d8d-2906-4a08-b34d-ac01d6707e23",
+            name: "Ronny Chieng",
+            role: "Cast Member"
+          },
+          {
+            id: "debec46d-f38c-4469-93f0-1a8f7cf81e4d",
+            name: "Roy Wood Jr.",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/288a6883-10c2-4b5b-a619-81b57bca36e9?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-26T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/288a6883-10c2-4b5b-a619-81b57bca36e9?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-26T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:d72e819c-18b7-4839-bd6f-ac3b86fbbf7f",
+        id: "d72e819c-18b7-4839-bd6f-ac3b86fbbf7f",
+        title: "July 25, 2016 - What to Expect When You’re Expectant",
+        episodeNumber: "9999",
+        description: "To kick off the Democratic National Convention, Trevor revisits a primary process that pitted Hillary Clinton against Bernie Sanders.",
+        shortDescription: "To kick off the Democratic National Convention, Trevor revisits a primary process that pitted Hillary Clinton against Bernie Sanders.",
+        ratingType: "TVPG",
+        rating: "TV-PG",
+        duration: 1296,
+        genre: "comedy",
+        originalAirDate: "2016-07-25T23:30:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds_trevornoah/ds_21_special_dnc_episode.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/d72e819c-18b7-4839-bd6f-ac3b86fbbf7f?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-09-07T16:02:43Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/d72e819c-18b7-4839-bd6f-ac3b86fbbf7f?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-09-07T16:02:43Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:506fb162-5cca-43a1-9a39-0784cca33f35",
+        id: "506fb162-5cca-43a1-9a39-0784cca33f35",
+        title: "July 22, 2016 - The RNC Night 4: The Party's Over",
+        episodeNumber: "21135",
+        description: "On The Daily Show's final night of RNC coverage, The Best F#@king News Team reacts to Donald Trump's nomination, fact-checks the speeches and prepares for possible deportation.",
+        shortDescription: "On The Daily Show's final night of RNC coverage, The Best F#@king News Team reacts to Donald Trump's nomination, fact-checks the speeches and prepares for possible deportation.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1381,
+        genre: "comedy",
+        originalAirDate: "2016-07-22T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21135/ds_21_135.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/506fb162-5cca-43a1-9a39-0784cca33f35?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-22T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/506fb162-5cca-43a1-9a39-0784cca33f35?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-22T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      },
+      {
+        mgid: "mgid:arc:episode:comedycentral.com:6986f527-8cc4-4b6e-a782-5bfa190909b1",
+        id: "6986f527-8cc4-4b6e-a782-5bfa190909b1",
+        title: "July 21, 2016 - Alex Wagner",
+        episodeNumber: "21134",
+        description: "Live from the RNC in Cleveland, Donald Trump accepts the presidential nomination, Rosie O'Donnell looks back at the mogul's life, and Alex Wagner discusses the election.",
+        shortDescription: "Live from the RNC in Cleveland, Donald Trump accepts the presidential nomination, Rosie O'Donnell looks back at the mogul's life, and Alex Wagner discusses the election.",
+        ratingType: "TVPG",
+        rating: "TV-14",
+        duration: 1461,
+        genre: "comedy",
+        originalAirDate: "2016-07-21T23:00:00Z",
+        images: [
+          {
+            url: "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/images/shows/tds/videos/season_21/21134/ds_21_134.jpg?host=comedycentral",
+            aspectRatio: "16:9",
+            width: 1920,
+            height: 1080
+          }
+        ],
+        people: [
+          {
+            id: "263f081c-638e-4e08-835c-8b34f6127980",
+            name: "Trevor Noah",
+            role: "Cast Member"
+          }
+        ],
+        season: {
+          id: "14a0c915-02b6-4dbe-8053-873c1f417447",
+          seasonNumber: "21",
+          title: "21: The Daily Show with Trevor Noah"
+        },
+        show: {
+          id: "7c2d44b4-c8b1-43a9-9bfc-32af988eab20",
+          title: "The Daily Show with Trevor Noah"
+        },
+        platforms: [
+          {
+            platform: "ios",
+            downloadLink: "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/6986f527-8cc4-4b6e-a782-5bfa190909b1?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-21T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          },
+          {
+            platform: "android",
+            downloadLink: "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            contentLink: "ccnetworkapp://episode/6986f527-8cc4-4b6e-a782-5bfa190909b1?xrs=vdapi_00_6d0c39d64c49dbfc5430e2482311ba71",
+            authRequired: "true",
+            startDate: "2016-07-21T23:00:00Z",
+            endDate: "9999-12-30T19:00:00Z"
+          }
+        ],
+        links: [
+          {
+            rel: "show",
+            href: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20"
+          },
+          {
+            rel: "brand",
+            href: "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        brand: {
+          id: "cc",
+          name: "comedy central",
+          url: "http://www.cc.com"
+        }
+      }
+    ],
+    offset: 0,
+    limit: 20,
+    page_count: 20,
+    total_count: 144,
+    nextUrl: "https://api.viacom.com/contents/v2/brands/cc/shows/7c2d44b4-c8b1-43a9-9bfc-32af988eab20/seasons/14a0c915-02b6-4dbe-8053-873c1f417447/episodes?offset=20&limit=20"
+  }
+}
