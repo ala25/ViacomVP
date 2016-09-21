@@ -18,9 +18,9 @@ if($scriptInvokedFromCli) {
     if (empty($port)) {
         $port = "8081";
     }
-
+//localhost:'. $port .
     echo 'starting server on port '. $port . PHP_EOL;
-    exec('php -S localhost:'. $port . ' -t client server.php');
+    exec('php -S -t client server.php');
 } else {
     return routeRequest();
 }
@@ -57,7 +57,7 @@ function routeRequest()
     //     header('Cache-Control: no-cache');
     //     header('Access-Control-Allow-Origin: *');
     //     header('X-API-KEY: MfWXKoGVzh1nNAHI1uTWuw45VzcAUyOC');
-        
+
     //     var_dump($response);
         echo $data;
 
