@@ -1,12 +1,13 @@
 import React from 'react';
 import $ from 'jquery';
 import VideoList from './VideoList.jsx';
+//import Loading from './loading.jsx';
 
 class VideoContainer extends React.Component {
 
   constructor(props) {
     super(props);
-    this.state={data:"",player:false};
+    this.state={data:"",loading:true};
     this.loadVideosFromServer = this.loadVideosFromServer.bind(this);
     this.handleScroll = this.handleScroll.bind(this);
 
@@ -33,7 +34,6 @@ class VideoContainer extends React.Component {
     }
 
   loadVideosFromServer(){
-
         $.ajax({
             url: this.props.url,
             dataType:'json',
@@ -43,20 +43,23 @@ class VideoContainer extends React.Component {
                 var arr = Object.keys(newD).map(function (key) {
                     return (key,newD[key])
                 });
-                this.setState({data:arr, loadFn:this.loadVideosFromServer });
+
+                this.setState({data:arr,loading:false});
             }.bind(this),
             error:function(xhr,status,err){
                 console.error(this.props.url, status, err.toString());
             }.bind(this)
         });
     }
-    componentDidMount(){
-        this.loadVideosFromServer();
-    }
 
+    componentDidMount(){
+      this.loadVideosFromServer();
+    }
     componentWillUnmount() {
         window.removeEventListener('scroll', this.handleScroll);
     }
+
+
     componentWillUpdate(){
         window.addEventListener('scroll', this.handleScroll);
     }
@@ -64,8 +67,7 @@ class VideoContainer extends React.Component {
     render(){
         return (
             <div onScroll={this.handleScroll} ref='scroll' className = 'VideoContainer'>
-
-                <VideoList startFn= {this.props.startPlayer}   data={this.state.data}/>
+              <VideoList startFn= {this.props.startPlayer} tveAuth={this.props.tveAuth} tveLogOut={this.props.tveLogOut}   data={this.state.data}/>
             </div>
         );
     }

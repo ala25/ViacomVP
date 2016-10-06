@@ -7,12 +7,20 @@ class Video extends React.Component {
         this.readLess = this.readLess.bind(this);
         this.startPlayer = this.startPlayer.bind(this);
         this.getRatingIcon = this.getRatingIcon.bind(this);
+        this.getDuration = this.getDuration.bind(this);
+        this.tveAuthVideo = this.tveAuthVideo.bind(this);
     }
      getLocalDate(orgDate){
         var d = new Date(orgDate);
          var n = d.toLocaleString();
          var date = n.split(',');
         return date[0];
+    }
+
+    getDuration(time){
+      var date = new Date(null);
+      date.setSeconds(time); // specify value for SECONDS here
+      return date.toISOString().substr(11, 8);
     }
 
     getRatingIcon(rating){
@@ -27,12 +35,12 @@ class Video extends React.Component {
     }
 
     readMore(){
-        var toggle = document.getElementById(this.props.id);
         var more = document.getElementsByClassName('more');
         var toggleLess = document.getElementsByClassName('readLess');
-        toggle.style.display = 'none';
+        var toggleMore = document.getElementsByClassName('readMore');
         more[this.props.id].style.display = 'inline';
         toggleLess[this.props.id].style.display = 'inline';
+        toggleMore[this.props.id].style.display = 'none';
 
     }
     readLess(){
@@ -40,9 +48,9 @@ class Video extends React.Component {
         var more = document.getElementsByClassName('more');
         var toggleMore = document.getElementsByClassName('readMore');
         var toggleLess = document.getElementsByClassName('readLess');
-        toggle.style.display = 'inline';
+        toggle.style.display = 'inline-block';
         more[this.props.id].style.display = 'none';
-        toggleMore[this.props.id].style.display = 'inline';
+        toggleMore[this.props.id].style.display = 'inline-block';
         toggleLess[this.props.id].style.display = 'none';
 
     }
@@ -51,9 +59,19 @@ class Video extends React.Component {
         this.props.startFb(this.props.uri);
     }
 
+    tveAuthVideo(){
+      this.props.tveAuth(this);
+    }
 
 
     render(){
+
+      var lock ;
+        if(this.props.auth == 'true' ){
+          lock = <span><img className='lockIcon' src='./lock.svg'/></span>;
+        }else if (this.props.auth == 'false') {
+          lock = <span><img/></span>;
+        }
         var x = this.props.desc.split(',');
         var rest="";
 
@@ -62,8 +80,10 @@ class Video extends React.Component {
             <div>
 
                 <div className="primary">
-                    <img className=" video" src={this.props.image+"&width=330"} alt=""  />
+                    <img className=" video" src={this.props.image+"&width=330"} id={this.props.id}  alt=""  />
                     <span className='ratingIcon' ><img className='icon' src={this.getRatingIcon(this.props.rating)} /></span>
+                    {lock}
+
                     <div className='overlay'>
                         <h3>{this.props.title}</h3>
                     </div>
@@ -72,9 +92,10 @@ class Video extends React.Component {
                         <span className='readMore' onClick={this.readMore} id={this.props.id}> Read More ...</span>
                         <span className='more' id={this.props.id}>{rest}</span>
                         <span className='readLess' onClick={this.readLess} id={this.props.id} > Show Less</span>
-                        <span className='date'>{this.getLocalDate(this.props.date)}</span>
+                        <span className='date'>Org. Air Date: {this.getLocalDate(this.props.date)}</span>
+                        <span className='duration'>Duration : {this.getDuration(this.props.runTime)}</span>
                         <span></span>
-                        <div onClick={this.startPlayer} className="play-button secondary ">
+                        <div onClick={this.tveAuthVideo} className="play-button secondary ">
                         </div>
                     </div>
                 </div>

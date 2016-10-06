@@ -1,4 +1,11 @@
 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html,body{
+text-align: center;
+background-color: #222;
+font-family: 'Open Sans', sans-serif;
+}
 * {
    margin: 0px;
    padding: 0px;
@@ -15,7 +22,6 @@ a{
 }
 
 .App-logo {
-  /*animation: App-logo-spin infinite 20s linear;*/
   height: 80px;
 }
 
@@ -25,32 +31,49 @@ a{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-  background-color: #222;
+  /*background-color: #222;*/
   height: 150px;
   padding: 20px;
   color: white;
 }
 
-
-
 .App-intro {
   font-size: large;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 .videoplayer{
   width:100% !important;
   transition: 0.8s ease-out;
+  clear: left !important;
 }
 .VideoContainer{
   width: 100%;
+
   margin: 0 auto;
   background-color: #222;
+  transition: 2s;
+  left:0;
 }
 .videoWrapper {
+  height: 100%;
+  margin-top: 50px;
   display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+
 
 }
 .video{
@@ -88,12 +111,33 @@ a{
   height: 10%;
 }
 
+.lockIcon{
+  position: absolute;
+  top: 15%;
+  bottom: 0;
+  right: 0;
+  left: 75%;
+  transition: 0.4s ease-out;
+  width: 10%;
+  height: 10%;
+
+}
+
 .icon{
   width: 100%;
   height: 100%;
 }
 
 .date{
+  position: absolute;
+  top: 65%;
+	bottom: 0;
+	right: 35%;
+	left: 0;
+  transition: 0.4s ease-out;
+}
+
+.duration{
   position: absolute;
   top: 75%;
 	bottom: 0;
@@ -150,4 +194,61 @@ a{
     border-style: solid;
     border-width: 9.5px 0 9.5px 17px;
     border-color: transparent transparent transparent rgba(255, 255, 255, 1);
+}
+
+.search {
+  width: 100%;
+  position: relative
+}
+
+.searchTerm {
+  float: left;
+  width: 100%;
+  border: 3px solid #00B4CC;
+  padding: 5px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.searchButton {
+  position: absolute;
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.closeButton{
+  position: absolute;
+  right: -80px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 60%;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

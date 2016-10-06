@@ -6,8 +6,6 @@ import $ from 'jquery';
 class VideoList extends React.Component {
     constructor(props){
         super(props);
-
-
     }
 
     render(){
@@ -28,7 +26,7 @@ class VideoList extends React.Component {
         var videoNodes = vals.map(function(video) {
             count ++;
             return (
-                <Video startFb={this.props.startFn}  image={video['images'][0]['url']} runTime={video['duration']} date={video['originalAirDate']} rating={video['rating']} desc={video['description']} title={video['title']} id={(count-1)} uri={video['mgid']}/>
+                <Video startFb={this.props.startFn} tveAuth={this.props.tveAuth} tveLogOut={this.props.tveLogOut} auth={video['platforms'][0]['authRequired']}  image={video['images'][0]['url']} runTime={video['duration']} date={video['originalAirDate']} rating={video['rating']} desc={video['description']} title={video['title']} key={count} id={(count-1)} uri={video['mgid']}/>
             );
         },this);
         return (

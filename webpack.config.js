@@ -12,18 +12,14 @@ var config = {
   },
   module:{
 	loaders:[
-		{
-		 test : /\.jsx?/,
-        	include : APP_DIR,
-       		 loader : 'babel'
-		}
+  		{
+  		 test : /\.jsx?/,
+          	include : APP_DIR,
+         		 loader : 'babel'
+  		}
 		]
 	}
 };
-externals: {
-  'react/addons': true,
-  'react/lib/ExecutionEnvironment': true,
-  'react/lib/ReactContext': true
-}
+
 
 module.exports = config;
